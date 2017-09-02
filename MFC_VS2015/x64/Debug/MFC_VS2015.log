@@ -1,0 +1,32 @@
+﻿生成启动时间为 2017/9/2 星期六 下午 3:23:36。
+     1>项目“Z:\共享文件夹\MFC_Learning\MFC_VS2015\MFC_VS2015.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"x64\Debug\MFC_VS2015.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\MFC_VS2015.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt AddendPage.cpp AddPage.cpp AddSheet.cpp MFC_VS2015.cpp MFC_VS2015Dlg.cpp SummandPage.cpp TipDlg.cpp
+         TipDlg.cpp
+         SummandPage.cpp
+         MFC_VS2015Dlg.cpp
+         MFC_VS2015.cpp
+         AddSheet.cpp
+         AddPage.cpp
+         AddendPage.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /Ix64\Debug\ /nologo /fo"x64\Debug\MFC_VS2015.res" MFC_VS2015.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\共享文件夹\MFC_Learning\x64\Debug\MFC_VS2015.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"Z:\共享文件夹\MFC_Learning\x64\Debug\MFC_VS2015.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\共享文件夹\MFC_Learning\x64\Debug\MFC_VS2015.lib" /MACHINE:X64 x64\Debug\MFC_VS2015.res
+         x64\Debug\AddendPage.obj
+         x64\Debug\AddPage.obj
+         x64\Debug\AddSheet.obj
+         x64\Debug\MFC_VS2015.obj
+         x64\Debug\MFC_VS2015Dlg.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\SummandPage.obj
+         x64\Debug\TipDlg.obj
+         MFC_VS2015.vcxproj -> Z:\共享文件夹\MFC_Learning\x64\Debug\MFC_VS2015.exe
+     1>已完成生成项目“Z:\共享文件夹\MFC_Learning\MFC_VS2015\MFC_VS2015.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:06.90

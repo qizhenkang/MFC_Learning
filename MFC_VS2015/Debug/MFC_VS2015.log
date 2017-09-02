@@ -1,0 +1,18 @@
+﻿生成启动时间为 2017/9/2 星期六 下午 6:20:40。
+     1>项目“Z:\共享文件夹\MFC_Learning\MFC_VS2015\MFC_VS2015.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\共享文件夹\MFC_Learning\Debug\MFC_VS2015.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"Z:\共享文件夹\MFC_Learning\Debug\MFC_VS2015.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\共享文件夹\MFC_Learning\Debug\MFC_VS2015.lib" /MACHINE:X86 Debug\MFC_VS2015.res
+         Debug\AddendPage.obj
+         Debug\AddPage.obj
+         Debug\AddSheet.obj
+         Debug\MFC_VS2015.obj
+         Debug\MFC_VS2015Dlg.obj
+         Debug\stdafx.obj
+         Debug\SummandPage.obj
+         Debug\TipDlg.obj
+         MFC_VS2015.vcxproj -> Z:\共享文件夹\MFC_Learning\Debug\MFC_VS2015.exe
+     1>已完成生成项目“Z:\共享文件夹\MFC_Learning\MFC_VS2015\MFC_VS2015.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:05.02
