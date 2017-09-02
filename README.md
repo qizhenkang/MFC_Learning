@@ -1,2 +1,2 @@
 # MFC_Learning
-A application around MFC.
+An application around MFC.
